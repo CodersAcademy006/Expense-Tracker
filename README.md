@@ -71,14 +71,6 @@ The Expense Tracker features a simple and easy-to-navigate interface, ensuring a
     streamlit run app.py
     ```
 
-## How to Contribute
-
-- If you wish to [contribute](CONTRIBUTING.md) in any way, feel free to get involved. You can suggest improvements or provide support and encouragement by [opening an issue](https://github.com/sree-hari-s/Expense-Tracker/issues).
-
-## Contributors
-
-Thank you all for, your contributions. Your contributions hold immense value for our project, and we are genuinely thankful for your valuable support. Your unwavering commitment and hard work are truly commendable.
-
 ## License
 
 This project is licensed under the terms of the [MIT License](LICENSE).

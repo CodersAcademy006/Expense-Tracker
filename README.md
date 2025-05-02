@@ -1,20 +1,5 @@
 <h1 align="center">FAMILY EXPENSE TRACKER 🏦</h1>
 <p align="center">
-    <a href="https://github.com/SVijayB/PyHub"><img src="assets/logo-hacktober.svg" alt="Logo" border="0"></a><br>
-    <a href="https://github.com/SVijayB/PyHub"><img src="assets/pyLogo.png" alt="Logo" border="0"></a>
-</p>
-
-<div align="center">
-
-![https://github.com/sree-hari-s/Expense-Tracker/network/members](https://img.shields.io/github/forks/sree-hari-s/Expense-Tracker?color=green) &nbsp;
-![https://github.com/sree-hari-s/Expense-Tracker/graphs/issues](https://img.shields.io/github/issues/sree-hari-s/Expense-Tracker)  &nbsp;
-![https://github.com/sree-hari-s/Expense-Tracker/graphs/contributors](https://img.shields.io/github/contributors/sree-hari-s/Expense-Tracker) &nbsp;
-![https://github.com/sree-hari-s/Expense-Tracker/stargazers](https://img.shields.io/github/stars/sree-hari-s/Expense-Tracker?color=red) &nbsp;
-![https://github.com/sree-hari-s/Expense-Tracker/watchers](https://img.shields.io/github/watchers/sree-hari-s/Expense-Tracker?color=yellow) &nbsp;
-![https://github.com/sree-hari-s/Expense-Tracker/license](https://img.shields.io/github/license/sree-hari-s/Expense-Tracker) &nbsp;
-[![code style: black](https://img.shields.io/badge/code%20style-black-000.svg)](https://github.com/psf/black) &nbsp;
-</div>
-
 <div align="center">
 Welcome to the Family Expense Tracker - a simple Python project designed to help you keep track of your family members' earnings and expenses. This tool allows you to effortlessly manage family finances by adding members, recording their earnings, and calculating the remaining balance after deducting expenses.
 </div>
@@ -93,13 +78,6 @@ The Expense Tracker features a simple and easy-to-navigate interface, ensuring a
 ## Contributors
 
 Thank you all for, your contributions. Your contributions hold immense value for our project, and we are genuinely thankful for your valuable support. Your unwavering commitment and hard work are truly commendable.
-
-<p align="center">
-  <a href="https://github.com/sree-hari-s/Expense-Tracker/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=sree-hari-s/Expense-Tracker" alt="Contributors" />
-  </a>
-</p>
-
 
 ## License
 
